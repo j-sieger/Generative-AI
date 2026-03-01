@@ -189,3 +189,5 @@ def running_agent():
 
 
 running_agent()
+#what was the SMP500 performance in 2024
+#How did openAI perform in 2024       --> No information about OpenAI in document
