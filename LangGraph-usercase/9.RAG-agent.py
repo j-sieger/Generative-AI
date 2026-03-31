@@ -26,7 +26,6 @@ llm = ChatWatsonx(
 # Our Embedding Model - has to also be compatible with the LLM
 embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
-
 pdf_path = "./data/Stock_Market_Performance_2024.pdf"
 
 
